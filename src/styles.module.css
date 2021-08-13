@@ -7,7 +7,7 @@
     color:#2a363b
 }
 .activeLink{
-    composes:link;
+  
     color:#2196f3;
 }
 
@@ -21,4 +21,37 @@
     white-space: nowrap;
     clip-path: inset(50%);
     border: 0;
+  }
+
+  .button{
+    margin: 20px;
+    background-color: azure;
+    border-radius: 10%;
+    width: 100px;
+}
+  .cast{
+    display: inline-block;
+    margin: 20px;
+}
+    .movieDetailsPage{
+        margin: 20px;
+}
+
+
+.searchForm {
+    margin: 20px;
+  }
+  
+  .inputForm {
+    margin-right: 20px;
+    width: 250px;
+    height: 30px;
+  }
+  
+  .buttonForm {
+    width: 80px;
+    height: 30px;
+    border: none;
+    background-color: rgb(120, 170, 228);
+    border-radius: 5px;
   }
