@@ -44,3 +44,7 @@ export default function App() {
     </div>
   );
 }
+
+
+ // "predeploy": "npm run build",
+    // "deploy": "netlify deploy -p"
