@@ -46,5 +46,3 @@ export default function App() {
 }
 
 
- // "predeploy": "npm run build",
-    // "deploy": "netlify deploy -p"
